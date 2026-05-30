@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersetch",
+        "uuid": 3367980,
+        "checksum": "sqxzsi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
